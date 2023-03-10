@@ -3,13 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33213.308
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FactoryMethod", "FactoryMethod\FactoryMethod.csproj", "{B59D3298-93EB-4602-916C-39A7F393BACC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FactoryMethod", "FactoryMethod\FactoryMethod.csproj", "{B59D3298-93EB-4602-916C-39A7F393BACC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbstractFactory", "AbstractFactory\AbstractFactory.csproj", "{8F47FA89-44EF-484C-BB6C-29DB86078FE7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AbstractFactory", "AbstractFactory\AbstractFactory.csproj", "{8F47FA89-44EF-484C-BB6C-29DB86078FE7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Singleton", "Singleton\Singleton.csproj", "{1B0DCD1A-D9A3-4B81-ACE3-242CC73A8711}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Singleton", "Singleton\Singleton.csproj", "{1B0DCD1A-D9A3-4B81-ACE3-242CC73A8711}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Builder", "Builder\Builder.csproj", "{F0B5768F-98B6-43B6-B84A-3351DE182E8B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Builder", "Builder\Builder.csproj", "{F0B5768F-98B6-43B6-B84A-3351DE182E8B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prototype", "Prototype\Prototype.csproj", "{133F9C39-6670-4DFB-8F27-B06868D4DE21}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{F0B5768F-98B6-43B6-B84A-3351DE182E8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F0B5768F-98B6-43B6-B84A-3351DE182E8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F0B5768F-98B6-43B6-B84A-3351DE182E8B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{133F9C39-6670-4DFB-8F27-B06868D4DE21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{133F9C39-6670-4DFB-8F27-B06868D4DE21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{133F9C39-6670-4DFB-8F27-B06868D4DE21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{133F9C39-6670-4DFB-8F27-B06868D4DE21}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
