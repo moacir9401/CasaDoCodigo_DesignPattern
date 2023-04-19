@@ -15,6 +15,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Prototype", "Prototype\Prot
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesingAdapter", "Adapter\DesingAdapter.csproj", "{9B410B2F-2E21-4810-B83F-23084329A43C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesingFlyWeight", "FlyWheight\DesingFlyWeight.csproj", "{3E17A1BC-894B-460F-848A-ADAB6D77DA8E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{9B410B2F-2E21-4810-B83F-23084329A43C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9B410B2F-2E21-4810-B83F-23084329A43C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9B410B2F-2E21-4810-B83F-23084329A43C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E17A1BC-894B-460F-848A-ADAB6D77DA8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E17A1BC-894B-460F-848A-ADAB6D77DA8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E17A1BC-894B-460F-848A-ADAB6D77DA8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E17A1BC-894B-460F-848A-ADAB6D77DA8E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
