@@ -13,9 +13,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Builder", "Builder\Builder.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Prototype", "Prototype\Prototype.csproj", "{133F9C39-6670-4DFB-8F27-B06868D4DE21}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesingAdapter", "Adapter\DesingAdapter.csproj", "{9B410B2F-2E21-4810-B83F-23084329A43C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DesingAdapter", "Adapter\DesingAdapter.csproj", "{9B410B2F-2E21-4810-B83F-23084329A43C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesingFlyWeight", "FlyWheight\DesingFlyWeight.csproj", "{3E17A1BC-894B-460F-848A-ADAB6D77DA8E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DesingFlyWeight", "FlyWheight\DesingFlyWeight.csproj", "{3E17A1BC-894B-460F-848A-ADAB6D77DA8E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignBridge", "Bridge\DesignBridge.csproj", "{B986D71C-C3EE-448F-B0A5-AACB03983B9E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{3E17A1BC-894B-460F-848A-ADAB6D77DA8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3E17A1BC-894B-460F-848A-ADAB6D77DA8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3E17A1BC-894B-460F-848A-ADAB6D77DA8E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B986D71C-C3EE-448F-B0A5-AACB03983B9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B986D71C-C3EE-448F-B0A5-AACB03983B9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B986D71C-C3EE-448F-B0A5-AACB03983B9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B986D71C-C3EE-448F-B0A5-AACB03983B9E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
