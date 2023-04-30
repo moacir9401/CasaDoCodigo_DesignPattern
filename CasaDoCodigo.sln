@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignProxy", "DesignProxy\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TemplateMethod", "TemplateMethod\TemplateMethod.csproj", "{7898F450-A78E-4EBB-BEB3-A180D4D57A3C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interpreter", "Interpreter\Interpreter.csproj", "{7F1FE034-1A71-4022-BBA3-D4110F9B9CCB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{7898F450-A78E-4EBB-BEB3-A180D4D57A3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7898F450-A78E-4EBB-BEB3-A180D4D57A3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7898F450-A78E-4EBB-BEB3-A180D4D57A3C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F1FE034-1A71-4022-BBA3-D4110F9B9CCB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F1FE034-1A71-4022-BBA3-D4110F9B9CCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F1FE034-1A71-4022-BBA3-D4110F9B9CCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F1FE034-1A71-4022-BBA3-D4110F9B9CCB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
