@@ -27,6 +27,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DesingnFacade", "DesingnFac
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignProxy", "DesignProxy\DesignProxy.csproj", "{AF829B84-B4F3-4F43-95AE-E3643372AABC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TemplateMethod", "TemplateMethod\TemplateMethod.csproj", "{7898F450-A78E-4EBB-BEB3-A180D4D57A3C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +83,10 @@ Global
 		{AF829B84-B4F3-4F43-95AE-E3643372AABC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AF829B84-B4F3-4F43-95AE-E3643372AABC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AF829B84-B4F3-4F43-95AE-E3643372AABC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7898F450-A78E-4EBB-BEB3-A180D4D57A3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7898F450-A78E-4EBB-BEB3-A180D4D57A3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7898F450-A78E-4EBB-BEB3-A180D4D57A3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7898F450-A78E-4EBB-BEB3-A180D4D57A3C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
