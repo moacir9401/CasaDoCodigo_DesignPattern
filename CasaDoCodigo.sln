@@ -31,6 +31,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TemplateMethod", "TemplateM
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interpreter", "Interpreter\Interpreter.csproj", "{7F1FE034-1A71-4022-BBA3-D4110F9B9CCB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Observer", "Observer\Observer.csproj", "{7C36B1A2-33E6-440E-A587-7BC07AF1D874}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -93,6 +95,10 @@ Global
 		{7F1FE034-1A71-4022-BBA3-D4110F9B9CCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7F1FE034-1A71-4022-BBA3-D4110F9B9CCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7F1FE034-1A71-4022-BBA3-D4110F9B9CCB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C36B1A2-33E6-440E-A587-7BC07AF1D874}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C36B1A2-33E6-440E-A587-7BC07AF1D874}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C36B1A2-33E6-440E-A587-7BC07AF1D874}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C36B1A2-33E6-440E-A587-7BC07AF1D874}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
